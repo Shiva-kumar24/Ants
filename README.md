@@ -6,6 +6,9 @@ This project is a **tower defense** style game called *Ants vs. SomeBees*. As th
 
 The game is inspired by PopCap Games’ *Plants vs. Zombies* and is built with Python, emphasizing object-oriented programming, class hierarchies, and stateful simulation.
 
+
+[Ingame gif](game.gif)
+
 ---
 
 ## 2. The Game
