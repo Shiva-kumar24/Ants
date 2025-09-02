@@ -1,4 +1,4 @@
-Ants vs. SomeBees (Python)
+Ants vs. SomeBees (Python) 
 A tower-defense simulation in Python inspired by Plants vs. Zombies. As the ant queen, you deploy different ant types to stop invading bees moving through linked tunnels. The project emphasizes object-oriented design, class hierarchies, and stateful simulation.
 
 🧠 Concepts & Topics Used
